@@ -1,0 +1,22 @@
+{
+  "name": "test_repo",
+  "version": "1.0.0",
+  "description": "For testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abraxas11/test_repo.git"
+  },
+  "author": "George Philippou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abraxas11/test_repo/issues"
+  },
+  "homepage": "https://github.com/Abraxas11/test_repo#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
